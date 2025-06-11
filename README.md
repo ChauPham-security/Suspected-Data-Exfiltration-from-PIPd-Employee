@@ -1,7 +1,7 @@
 
 <img width="898" alt="Screenshot 2025-06-11 at 11 23 33 AM" src="https://github.com/user-attachments/assets/4fe39882-5cd9-4488-9aa4-d0ba5dece980" />
 
-# 🕵️‍♂️ Suspected-Data-Exfiltration-from-PIPd-Employee
+# 🕵️‍♂️ Suspected Data Exfiltration from PIPd Employee
 
 This threat hunt investigates a potentially malicious insider (John Doe), who was recently placed on a Performance Improvement Plan (PIP). Due to behavioral red flags and elevated access, I assessed his device for any signs of data archiving or exfiltration activity. The investigation was performed using Microsoft Defender for Endpoint (MDE).
 
