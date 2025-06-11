@@ -94,7 +94,7 @@ DeviceNetworkEvents
 |--------|--------------|-------------|
 | Execution | **T1059.001** | PowerShell used to silently install and execute 7-Zip |
 | Collection | **T1560.001** | Archive via Utility - Usage of 7-Zip to compress files |
-| Defense Evasion | **T1036.005** | Masquerading — Storing files in a benign-looking `"backup"` folder |
+| Defense Evasion | **T1036.005** | Masquerading - Storing files in a benign-looking `"backup"` folder |
 
 ---
 
